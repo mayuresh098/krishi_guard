@@ -22,7 +22,9 @@ ID  |Name|Link
 </p>
 </br>
 <p align="center">
-  <span>Multiple object Detection</span>
-  <img src="https://github.com/mayuresh098/krishi_guard/blob/master/snip/carp_img.jpg" width="350"/>
   
+  <img src="https://github.com/mayuresh098/krishi_guard/blob/master/snip/carp_img.jpg" width="350"/>
+</p>
+<p align="center">
+  <span>Multiple object Detection</span>
 </p>
