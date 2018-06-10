@@ -9,7 +9,7 @@ The farmers in india specially in northern states have given up farming and are 
   <img src="https://github.com/mayuresh098/krishi_guard/blob/master/snip/Capture1.PNG" width="350"/>
   <img src="https://github.com/mayuresh098/krishi_guard/blob/master/snip/fin_ass.jpg" width="350"/>
 </p>
-
+</br>
 <p align="center">
   Multi object Detection
   <img src="https://github.com/mayuresh098/krishi_guard/blob/master/snip/carp_img.jpg" width="350"/>
